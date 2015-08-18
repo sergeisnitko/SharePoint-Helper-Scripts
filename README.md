@@ -19,6 +19,7 @@ The main purpose of this project is to store scripts for my own use and for stor
 
 **[Start_Install](https://github.com/sergeisnitko/SharePoint-Helper-Scripts/blob/master/Sharepoint-Helper-Scripts/PowerShell/Start_Install.ps1)** - this script starts the installation of SharePoint with offline downloaded prerequisites
 
+**[GAC Retract_Install](https://github.com/sergeisnitko/SharePoint-Helper-Scripts/blob/master/Sharepoint-Helper-Scripts/PowerShell/GAC%20Retract_Install.ps1)** - this script istalls library in to GAC and retracts it from GAC
 
 ## Javascript
 
