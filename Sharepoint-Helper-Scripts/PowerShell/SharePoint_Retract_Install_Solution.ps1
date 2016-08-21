@@ -1,7 +1,8 @@
 # This commands script file retracts and installs custom solutions
 # Author: Sergei Snitko
-# Blog: http://blog.cibpoint.ru/
+# Blog: http://blog.arvosys.ru/
 # Last Update : 4/11/2014
+Add-PSSnapIn -Name Microsoft.SharePoint.PowerShell -ErrorAction SilentlyContinue
 
 function RemoveSolution ($SolutionName){
     Write-Host "Removing solution $SolutionName" -ForegroundColor Yellow

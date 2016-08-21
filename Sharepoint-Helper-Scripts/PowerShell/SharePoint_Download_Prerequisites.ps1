@@ -1,6 +1,6 @@
 # This commands script file downloads Files from several directories. This script is designed for SharePoint Prerequisites
 # Author: Sergei Snitko
-# Blog: http://blog.cibpoint.ru/
+# Blog: http://blog.arvosys.ru/
 # Last Update : 4/11/2014
 
 # Important: URLs of prerequisite files can be changed at Microsoft's site - check for new links http://technet.microsoft.com/en-us/library/cc262485(v=office.15).aspx and update the array down.

@@ -1,7 +1,8 @@
 # This commands script file exports all solutions in the farm
 # Author: Sergei Snitko
-# Blog: http://blog.cibpoint.ru/
+# Blog: http://blog.arvosys.ru/
 # Last Update : 4/11/2014
+Add-PSSnapIn -Name Microsoft.SharePoint.PowerShell -ErrorAction SilentlyContinue
 
 function BackUpSolutions($BackupDirectory)
 {

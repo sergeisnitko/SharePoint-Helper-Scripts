@@ -1,6 +1,11 @@
+// This commands script file publishes files in SharePoint libraries
+// Author: Sergei Snitko
+// Blog: http://blog.arvosys.ru/
+// Last Update : 8/21/2015
+
 var ListName = "NewQua";
-var FieldName = "_x043e__x0434__x0438__x043d_";
-var link = "~site/SiteAssets/CIBAssets/SPImageField/js/cib.applyto.js?201410311455|~site/SiteAssets/CIBAssets/SPImageField/js/cib.sp.simpleimagefield.js?201410311455";
+var FieldName = "FileName";
+var link = "~site/SiteAssets/SPF/SPImageField/js/cib.applyto.js|~site/SiteAssets/SPF/SPImageField/js/cib.sp.simpleimagefield.js";
 
 var clientContext = new SP.ClientContext();
 var web = clientContext.get_web();

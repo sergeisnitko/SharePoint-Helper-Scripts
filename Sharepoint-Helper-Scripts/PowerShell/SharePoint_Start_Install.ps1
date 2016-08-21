@@ -1,6 +1,6 @@
 # This commands script file executes PrerequisiteInstaller for SharePoint with Instalation files as params
 # Author: Sergei Snitko
-# Blog: http://blog.cibpoint.ru/
+# Blog: http://blog.arvosys.ru/
 # Last Update : 4/11/2014
 
 function StartInstall($Path){  

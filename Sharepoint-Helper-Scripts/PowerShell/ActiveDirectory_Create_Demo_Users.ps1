@@ -1,6 +1,6 @@
 # This commands script file creates demo users in Active Directory
 # Author: Sergei Snitko
-# Blog: http://blog.cibpoint.ru/
+# Blog: http://blog.arvosys.ru/
 # Last Update : 4/11/2014
 
 cls
