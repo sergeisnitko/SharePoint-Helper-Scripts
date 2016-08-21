@@ -1,8 +1,7 @@
 # SharePoint 2013 PowerShell&Javascript helper scripts
 This list of powershell and javascript scripts helps me to communicate with SharePoint with administrator tools
 The main purpose of this project is to store scripts for my own use and for storing my code from blogs:
-* http://blog.cibpoint.ru
-* http://blog.snits.ru
+* http://blog.arvosys.ru
 
 
 ## PowerShell Scripts
