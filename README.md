@@ -28,4 +28,7 @@ The main purpose of this project is to store scripts for my own use and for stor
 
 **[SharePoint_Update_JSLink](https://github.com/sergeisnitko/SharePoint-Helper-Scripts/blob/master/Sharepoint-Helper-Scripts/Javascript/SharePoint_Update_JSLink.js)**- this script sets the value of JSLink for selected field in a list or a web
 
-**[SharePoint_Publish_Files](https://github.com/sergeisnitko/SharePoint-Helper-Scripts/blob/master/Sharepoint-Helper-Scripts/Javascript/SharePoint_Publish_Files.js)**- this script publishes files in the library or folder in the library 
+**[SharePoint_Publish_Files](https://github.com/sergeisnitko/SharePoint-Helper-Scripts/blob/master/Sharepoint-Helper-Scripts/Javascript/SharePoint_Publish_Files.js)**- this script publishes files in the library or folder in the library
+
+**[SharePoint_CSRWebParts_On_Page](https://github.com/sergeisnitko/SharePoint-Helper-Scripts/blob/master/Sharepoint-Helper-Scripts/Javascript/SharePoint_CSRWebParts_On_Page.js)**- this script findes all ListView WebParts on current page that uses CSR to render
+
